@@ -2,4 +2,6 @@
 
 Investigas a Dr Doom
 
-Capturar a Dead Pool 
+Capturar a Dead Pool
+
+Nueva mision
